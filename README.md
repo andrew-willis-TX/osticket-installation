@@ -22,4 +22,5 @@
 - Open IIS as Admin
 - Register PHP within IIS
 - Stop then Start the server within IIS
-- 
+- Download and install HeidiSQL
+
