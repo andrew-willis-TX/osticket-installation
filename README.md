@@ -12,6 +12,9 @@
 <h2> Installation Steps </h2>
 
 - Within the Azure portal, create a Windows 10 VM
+<p align="center">
+<img src=" "/>
+</p>
 - Download and install osTicket on VM
 - Enable Internet Information Services (IIS) with Common Gateway Interface
 - Download and install PHP Manager for IIS
