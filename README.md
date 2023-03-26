@@ -1,4 +1,6 @@
 <h1> osTicket Installation </h1>
+In this lab exercise we explore the ticketing software osTicket. This tutorial explains the set up process and necessary programs required for osTicket to function properly. 
+
 <h2> Environments and Tecnology Used </h2>
 
 - Microsoft Azure VM
@@ -11,19 +13,28 @@
 
 <h2> Installation Steps </h2>
 
-- Within the Azure portal, create a Windows 10 VM
-<p align="center">
-<img src=" "/>
-</p>
-- Download and install osTicket on VM
-- Enable Internet Information Services (IIS) with Common Gateway Interface
-- Download and install PHP Manager for IIS
-- Download and install Rewrite Module
-- Download and install PHP
-- Download and install VC resdistributable
-- Download and install MySQL
-- Open IIS as Admin
-- Register PHP within IIS
-- Stop then Start the server within IIS
-- Download and install HeidiSQL
+1. Within the Azure portal, create a Windows 10 VM
+
+2. Download and install osTicket on VM. 
+ 
+3. Enable Internet Information Services (IIS) with Common Gateway Interface. 
+
+4. Download and install PHP Manager for IIS. 
+
+5. Download and install Rewrite Module. 
+
+6. Download and install PHP. 
+
+7. Download and install VC resdistributable. 
+
+8. Download and install MySQL. 
+
+9. Open IIS as Admin. 
+
+10. Register PHP within IIS  
+
+11. Stop then Start the server within IIS. 
+
+12. Download and install HeidiSQL. 
+
 
