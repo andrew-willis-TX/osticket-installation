@@ -1,6 +1,10 @@
 <h1> osTicket Installation </h1>
-In this lab exercise we explore the ticketing software osTicket. This tutorial explains the set up process and necessary programs required for osTicket to function properly. 
 
+<p align="center">
+<img src="https://yunohost.org/user/images/osticket_logo.svg" height="50%" width="50%" alt="osTicket Logo"/>
+</p>
+
+In this lab exercise we explore the ticketing software osTicket. This tutorial explains the set up process and requirements for osTicket to function properly.
 <h2> Environments and Tecnology Used </h2>
 
 - Microsoft Azure VM
